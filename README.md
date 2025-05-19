@@ -6,7 +6,6 @@ With expertise in various analytical tools and a keen interest in uncovering ins
 I strive to turn raw data into actionable strategies.
 
 - 📊 Skilled in Excel, Power BI, SPSS, SQL and Python
-- 🌱 Currently learning Python to enhance my analytical capabilities
 - 📈 Excited about leveraging data to drive business growth and efficiency
 - 📫 Let's connect: [Here](gracedave360@gmail.com)
 
@@ -15,5 +14,5 @@ I strive to turn raw data into actionable strategies.
 - **Power BI**: Creating interactive dashboards and reports
 - **SPSS**: Descriptive Statistics and Inferential Statistics
 - **SQL**: Database querying and management
-- **Python**: Learning for advanced analytics and automation
+- **Python**: For advanced analytics and automation
 
