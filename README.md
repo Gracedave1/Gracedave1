@@ -10,9 +10,11 @@ I strive to turn raw data into actionable strategies.
 - 📫 Let's connect: [Here](gracedave360@gmail.com)
 
 #### Skills & Tools
-- **Excel**: Advanced data analysis, pivot tables, and VBA
-- **Power BI**: Creating interactive dashboards and reports
-- **SPSS**: Descriptive Statistics and Inferential Statistics
-- **SQL**: Database querying and management
-- **Python**: For advanced analytics and automation
+- **Excel**: Advanced data analysis, PivotTables, Power Query, and automation with VBA  
+- **Power BI**: Building interactive dashboards, data modeling, and DAX calculations  
+- **SPSS**: Descriptive and inferential statistical analysis  
+- **SQL**: Writing optimized queries for data extraction, transformation, and reporting  
+- **Python**: Data cleaning, analysis, visualization, and automation  
+- **TensorFlow & Keras**: Deep learning model development  
+- **CNN (Convolutional Neural Networks)**: Image classification and pattern recognition in medical imaging
 
